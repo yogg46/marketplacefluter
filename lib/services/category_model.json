@@ -1,0 +1,77 @@
+{
+    "categories" : [
+        {
+            "name": "Anggrek Dewasa",
+            "subcategory" : [
+                "Anggrek Vanda",
+                "Anggrek Bulan",
+                "Anggrek Dendrobium"
+            ]
+        },
+        {
+            "name": "Pupuk Anggrek",
+            "subcategory" : [
+                "Pembungaan",
+                "Pertumbuhan",
+                "Akar"
+            ]
+        },
+        {
+            "name": "Alat Tanaman",
+            "subcategory" : [
+                "Gunting Batang",
+                "Botol Spray",
+                "Sendok Takar"
+            ]
+        },
+        {
+            "name": "Anggrek Remaja",
+            "subcategory" : [
+                "Anggrek Vanda",
+                "Anggrek Bulan",
+                "Anggrek Dendrobium"
+            ]
+        },
+        {
+            "name": "Anggrek Tempel",
+            "subcategory" : [
+                "Anggrek Vanda",
+                "Anggrek Bulan",
+                "Anggrek Dendrobium"
+            ]
+        },  
+        {
+            "name": "Paket Hemat",
+            "subcategory" : [
+                "Paket Pembungaan",
+                "Paket Pertumbuhan",
+                "Anggrek"
+            ]
+        },
+        {
+            "name": "Paket Pembungaan",
+            "subcategory" : [
+                "Paket Lengkap 1",
+                "Paket Lengkap 2",
+                "Paket Lengkap 3"
+            ]
+        },
+        {
+            "name": "Pestisida Anggrek",
+            "subcategory" : [
+                "Akarisida",
+                "Antimut",
+                "Fungisida"
+            ]
+        },
+        {
+            "name": "Bibit Anggrek",
+            "subcategory" : [
+                "Anggrek Vanda",
+                "Anggrek Bulan",
+                "Anggrek Dendrobium"
+            ]
+        }
+    ]
+
+}

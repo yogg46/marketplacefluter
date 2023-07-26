@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "354474217793",
+    "project_id": "kandangorchids-8968e",
+    "storage_bucket": "kandangorchids-8968e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354474217793:android:41053c02bd4b1a845e51c0",
+        "android_client_info": {
+          "package_name": "com.example.kandang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354474217793-fvme778mllb54fuveaoseququ0grlred.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kandang",
+            "certificate_hash": "5bcc05ca9feb2f146158cfaf33e6d61d1d060af5"
+          }
+        },
+        {
+          "client_id": "354474217793-7ro44ba59rsfil7vl6gnc80p273squl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb555jF975KQX8NuFZeaKdMt7X4ldsaVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354474217793-7ro44ba59rsfil7vl6gnc80p273squl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354474217793:android:827b7e20f11a76f35e51c0",
+        "android_client_info": {
+          "package_name": "com.example.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354474217793-7ro44ba59rsfil7vl6gnc80p273squl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb555jF975KQX8NuFZeaKdMt7X4ldsaVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354474217793-7ro44ba59rsfil7vl6gnc80p273squl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
